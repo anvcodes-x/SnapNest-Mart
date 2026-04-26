@@ -4,7 +4,7 @@
 **SnapNest Mart** is a full-stack e-commerce web application built with:  
 - **Backend:** Java Spring Boot (REST API)  
 - **Frontend:** React.js  
-- **Database:** MySQL  
+- **Database:** H2 
 
 It demonstrates how frontend and backend communicate using REST APIs and implements **CRUD operations** like adding, updating, deleting, and viewing products.  
 
@@ -13,7 +13,7 @@ It demonstrates how frontend and backend communicate using REST APIs and impleme
 ## ⚙️ Tech Stack  
 - **Frontend:** React, Axios, Bootstrap/Material UI  
 - **Backend:** Spring Boot, JPA/Hibernate  
-- **Database:** MySQL  
+- **Database:** H2
 - **Tools:** IntelliJ IDEA, VS Code, Git, Maven, Java 
 
 ---
